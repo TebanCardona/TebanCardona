@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://estebancardona.com](https://estebancardona.com)
 
-- 💬 Ask me about **JavaScript, Express, Sequelize, PostgreSql**
+- 💬 Ask me about **JavaScript, Express, Sequelize, PostgreSQL, React.js, Node.js**
 
-- 📫 How to reach me **estebanfabi737@gmail.conm**
+- 📫 How to reach me **estebanfabi737@gmail.com**
 
 - ⚡ Fun fact **I love playing video games so much**
 
