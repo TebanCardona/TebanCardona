@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tebancardona&label=Profile%20views&color=0e75b6&style=flat" alt="tebancardona" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, Python**
+- 🌱 I’m currently learning **TypeScript, Java**
 
 - 👨‍💻 All of my projects are available at [https://estebancardona.com](https://estebancardona.com)
 
