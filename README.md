@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **TypeScript, Java**
 
-- 👨‍💻 All of my projects are available at [https://estebancardona.com](https://estebancardona.com)
 
 - 💬 Ask me about **JavaScript, Express, Sequelize, PostgreSQL, React.js, Node.js**
 
